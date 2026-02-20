@@ -1,0 +1,115 @@
+"Notes","State","State Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval
+,"Alabama","01",337,35092928,1.0,0.9,1.1
+,"Alaska","02",47,5139936,0.9,0.7,1.2
+,"Arizona","04",485,51521005,0.9,0.9,1.0
+,"Arkansas","05",252,21289765,1.2,1.0,1.3
+,"California","06",2787,275100980,1.0,1.0,1.1
+,"Colorado","08",392,40749117,1.0,0.9,1.1
+,"Connecticut","09",237,25219005,0.9,0.8,1.1
+,"Delaware","10",56,7033331,0.8,0.6,1.0
+,"District of Columbia","11",17,4844095,0.4,0.2,0.6
+,"Florida","12",1202,154519266,0.8,0.7,0.8
+,"Georgia","13",428,75769462,0.6,0.5,0.6
+,"Hawaii","15",95,10006402,0.9,0.8,1.2
+,"Idaho","16",164,13174487,1.2,1.1,1.4
+,"Illinois","17",625,88513779,0.7,0.7,0.8
+,"Indiana","18",582,47604546,1.2,1.1,1.3
+,"Iowa","19",404,22316864,1.8,1.6,2.0
+,"Kansas","20",332,20521508,1.6,1.4,1.8
+,"Kentucky","21",453,31549556,1.4,1.3,1.6
+,"Louisiana","22",223,32339867,0.7,0.6,0.8
+,"Maine","23",167,9591078,1.7,1.5,2.0
+,"Maryland","24",263,42917462,0.6,0.5,0.7
+,"Massachusetts","25",471,48792493,1.0,0.9,1.1
+,"Michigan","26",810,70211971,1.2,1.1,1.2
+,"Minnesota","27",476,39863793,1.2,1.1,1.3
+,"Mississippi","28",190,20702222,0.9,0.8,1.0
+,"Missouri","29",591,43203194,1.4,1.3,1.5
+,"Montana","30",115,7708843,1.5,1.2,1.8
+,"Nebraska","31",208,13716687,1.5,1.3,1.7
+,"Nevada","32",260,22036213,1.2,1.0,1.3
+,"New Hampshire","33",114,9677753,1.2,1.0,1.4
+,"New Jersey","34",341,63993602,0.5,0.5,0.6
+,"New Mexico","35",202,14772424,1.4,1.2,1.6
+,"New York","36",1317,137284074,1.0,0.9,1.0
+,"North Carolina","37",833,74604177,1.1,1.0,1.2
+,"North Dakota","38",82,5422151,1.5,1.2,1.9
+,"Ohio","39",965,82277073,1.2,1.1,1.2
+,"Oklahoma","40",462,28036489,1.6,1.5,1.8
+,"Oregon","41",448,29641978,1.5,1.4,1.7
+,"Pennsylvania","42",1068,90368801,1.2,1.1,1.3
+,"Rhode Island","44",73,7571415,1.0,0.8,1.2
+,"South Carolina","45",375,36776606,1.0,0.9,1.1
+,"South Dakota","46",134,6308798,2.1,1.8,2.5
+,"Tennessee","47",607,48866814,1.2,1.1,1.3
+,"Texas","48",1412,208410130,0.7,0.6,0.7
+,"Utah","49",155,23257064,0.7,0.6,0.8
+,"Vermont","50",91,4462226,2.0,1.6,2.5
+,"Virginia","51",406,60496553,0.7,0.6,0.7
+,"Washington","53",670,54139634,1.2,1.1,1.3
+,"West Virginia","54",245,12480931,2.0,1.7,2.2
+,"Wisconsin","55",546,41129034,1.3,1.2,1.4
+,"Wyoming","56",54,4070683,1.3,1.0,1.7
+"Total",,,23269,2325098265,1.0,1.0,1.0
+"---"
+"Dataset: Underlying Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: J10.0 (Influenza with pneumonia, influenza virus identified); J10.1 (Influenza with other respiratory"
+"manifestations, influenza virus identified); J10.8 (Influenza with other manifestations, influenza virus identified)"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Feb 20, 2026 6:08:30 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Feb 20, 2026 6:08:30 PM"
+"---"
+Caveats:
+"1. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Confidence-Intervals."
+"2. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"4. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."
+"5. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."
